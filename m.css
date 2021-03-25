@@ -1,0 +1,70 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#c {
+    background: orange;
+    width: 1015px;
+    height: 5px;
+}
+
+#m {
+    background: white;
+    width: 1015px;
+    height: 75px;
+}
+
+#n {
+    background: chartreuse;
+    width: 755px;
+    height: 850px;
+    float: left;
+}
+
+#b {
+    background: lightseagreen;
+    width: 248px;
+    height: 850px;
+    float: right;
+}
+
+#v {
+    background: turquoise;
+    width: 1015px;
+    height: 70px;
+    float: right;
+}
+
+h1 {
+    border: 2px solid rgb(0, 255, 76);
+    width: 200px;
+    border-radius: 25px;
+    position: absolute;
+    top: 18px;
+    left: 380px;
+    background: yellow;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: green;
+}
+
+.x {
+    color: red;
+}
+
+h2 {
+    text-align: center;
+    border: 2px solid;
+    width: 120px;
+    border-radius: 25px;
+    position: absolute;
+    top: 83px;
+    right: 55px;
+}
+
+ul {
+    padding: 24px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+}
